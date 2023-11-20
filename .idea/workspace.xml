@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="011d4bba-59b8-4e1b-b2a1-79430c6f119f" name="Changes" comment="v50">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/DemoNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LeetCode1402.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Poi.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/LeetCode1333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarysearch/LeetCode2251.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dynamicprogramming/LeetCode122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dynamicprogramming/LeetCode123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithread/AlterPrintMSB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithread/AlternatePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithread/AlternatePrintGPT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithread/AlternatePrintGPT_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/treetravel/LeetCode2316.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heihei.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heihei1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heiheitest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/local1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/local2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newheihei1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alg2023/Testgitforidea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com01/Assignment4.java" beforeDir="false" />
-    </list>
+    <list default="true" id="011d4bba-59b8-4e1b-b2a1-79430c6f119f" name="Changes" comment="v50" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
